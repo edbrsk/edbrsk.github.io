@@ -101,3 +101,6 @@ TBD.
 - **What is the goal of these meetups?**
 
   The goal is to start up a community that comes together monthly to hack some boxes together. The boxes picked for the meetups are the ones chosen by the hacking community to be related to the OSCP or eCPPTv2 exam, and we will also approach these boxes according to the OSCP exam regulations. This way everyone can prepare together or just come to learn new stuff.
+
+- **Language of the Meetup?**
+  The Meetup will be in Catalan/Spanish/English it will depend on the preferences of the attendees.
