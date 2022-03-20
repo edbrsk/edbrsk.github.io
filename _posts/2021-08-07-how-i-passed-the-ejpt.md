@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How I passed the eJPT
+lang: en
+ref: ejpt-review
 ---
 
 Having recently completed the [eLearnSecurity Junior Penetration Tester (eJPT)](https://elearnsecurity.com/product/ejpt-certification/)

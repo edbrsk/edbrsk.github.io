@@ -281,6 +281,18 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+
+  .lang-options ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .lang-options ul li {
+    display: inline-block;
+    margin: 0 5px;
+  }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
