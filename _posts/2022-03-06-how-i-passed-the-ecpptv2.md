@@ -1,6 +1,8 @@
 ---
 layout: post
 title: How I passed the eCPPTv2
+lang: en
+ref: ecpptv2-review
 ---
 
 Having recently completed the [eLearnSecurity Certified Professional Penetration Tester (eCPPTv2)](https://elearnsecurity.com/product/ecpptv2-certification/), I decided to write a review of the certification, and some useful resources that could help some of you to prepare/pass the exam.

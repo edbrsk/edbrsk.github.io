@@ -1,0 +1,10 @@
+en:
+  label: English
+  icon: 🇺🇸
+  read_it_in: "Read this page in"
+  written_on: "Written on"
+es:
+  label: Español
+  icon: 🇪🇸
+  read_it_in: "Lea esta página en"
+  written_on: "Escrito en"

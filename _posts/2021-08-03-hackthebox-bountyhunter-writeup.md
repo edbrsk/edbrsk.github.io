@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hack The Box BountyHunter - Writeup
+lang: en
+ref: BountyHunter
 ---
 
 BountyHunter is an easy difficulty Hack The Box machine, exploited using XXE injection (to LFI), and using a markdown file to get root privileges.

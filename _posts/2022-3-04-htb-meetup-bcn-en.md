@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hack The Box Barcelona - Meetup
+lang: en
+ref: htb-meetup-bcn
 ---
 
 This is the communication page for the `Barcelona Hack The Box meetups`. All info about how to register and get ready for the next event can be found here.
@@ -40,7 +42,7 @@ To successfully register for an event, you'll have to complete a few steps.
 
 - RSVP to the upcoming event
 - Join our Discord group    
-  [Join the HTB BE Discord Server!](https://discord.gg/T3wSMRKPpV)
+  [Join the HTB BCN Meetup Discord Server!](https://discord.gg/T3wSMRKPpV)
 
 - Send brsk#0851 your Hack The Box username, for example:
   `Hey Edgar, I'll attend to the next event. My user is: edbrsk #528375` <- You can find this in your htb profile.
@@ -48,7 +50,7 @@ To successfully register for an event, you'll have to complete a few steps.
 ⚠️ This communication dashboard will be posted along with every new event we host.
 Some of these steps you'll only have to do it once, but don’t forget to RSVP to every event, and send us your username every time. This way we can provide you the right access to the labs.
 
-# 4. Requirements
+## 4. Requirements
 
 To be able to follow along during the meetups, you need to have some stuff installed:
 
@@ -57,7 +59,7 @@ To be able to follow along during the meetups, you need to have some stuff insta
     - [Kali VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
     - [Parrot Security Edition](https://www.parrotsec.org/download/)
 
-# 5. Connecting to the environment
+## 5. Connecting to the environment
 
 On the day of the meetup you will need to connect to our dedicated lab environment so you can follow along. To do so, follow these steps:
 
@@ -103,4 +105,4 @@ TBD.
   The goal is to start up a community that comes together monthly to hack some boxes together. The boxes picked for the meetups are the ones chosen by the hacking community to be related to the OSCP or eCPPTv2 exam, and we will also approach these boxes according to the OSCP exam regulations. This way everyone can prepare together or just come to learn new stuff.
 
 - **Language of the Meetup?**
-  The Meetup will be in Catalan/Spanish/English it will depend on the preferences of the attendees.
+  The Meetup will be in Catalan/Spanish/English it will depend on the preferences of the attendees. We will try to be as democratic as possible.

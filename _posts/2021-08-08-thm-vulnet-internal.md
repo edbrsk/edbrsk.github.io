@@ -1,6 +1,8 @@
 ---
 layout: post
 title: TryHackMe Vulnet Internal - Writeup
+lang: en
+ref: vulnet-internal
 ---
 
 Vulnet is an easy/medium difficulty TryHackMe machine.
