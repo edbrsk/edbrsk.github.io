@@ -9,4 +9,8 @@ Gemfile
 Gemfile.lock
 node_modules
 package.json
+_protected
+_protected/*.md
+package-lock.json
+gulpfile.js
 .idea
