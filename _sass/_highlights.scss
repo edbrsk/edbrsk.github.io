@@ -1,8 +1,8 @@
 
 .highlight {
-  background-color: #efefef;
+  background-color: #282c34;
+  color: #abb2bf;
   padding: 7px 7px 7px 10px;
-  border: 1px solid #ddd;
   -moz-box-shadow: 3px 3px rgba(0,0,0,0.1);
   -webkit-box-shadow: 3px 3px rgba(0,0,0,0.1);
   box-shadow: 3px 3px rgba(0,0,0,0.1);
@@ -14,7 +14,7 @@ code {
   font-family:'Bitstream Vera Sans Mono','Courier', monospace;
 }
 
-.highlight .c { color: #586E75 } /* Comment */
+.highlight .c { color: #abb2bf } /* Comment */
 .highlight .err { color: #93A1A1 } /* Error */
 .highlight .g { color: #93A1A1 } /* Generic */
 .highlight .k { color: #859900 } /* Keyword */
@@ -58,7 +58,7 @@ code {
 .highlight .nn { color: #93A1A1 } /* Name.Namespace */
 .highlight .nx { color: #555 } /* Name.Other */
 .highlight .py { color: #93A1A1 } /* Name.Property */
-.highlight .nt { color: #268BD2 } /* Name.Tag */
+.highlight .nt { color: #abb2bf } /* Name.Tag */
 .highlight .nv { color: #268BD2 } /* Name.Variable */
 .highlight .ow { color: #859900 } /* Operator.Word */
 .highlight .w { color: #93A1A1 } /* Text.Whitespace */
