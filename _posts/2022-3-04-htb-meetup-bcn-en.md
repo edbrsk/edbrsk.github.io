@@ -34,19 +34,18 @@ I'm Edgar Ordóñez Rodríguez, Software Engineer at [@Wallapop](https://es.wall
 
 To successfully register for an event, you'll have to complete a few steps.
 
-- Create an account on Hack The Box
+- Create an account on Hack The Box (This is mandatory if you want to resolve the box on the same day of the event.)
   [Hacking Training For The Best](https://www.hackthebox.com/)
 
 - Join our group on meetup
   [Hack The Box Meetup: Barcelona](https://www.meetup.com/es/hack-the-box-meetup-barcelona-es/)
 
-- RSVP to the upcoming event
+- RSVP to the upcoming event. Introduce your Hack The Box username in the form.
+
 - I recommend you to join our Discord group    
   [Join the HTB BCN Meetup Discord Server!](https://discord.gg/T3wSMRKPpV)
 
-- Send a message to brsk#0851 (Discord) your Hack The Box username, for example:
-  `Hey Edgar, I'll attend to the next event. My user is: edbrsk #528375` <- You can find this in your htb profile.
-  - If you don't want to create or join tou our Discord group, please post your user in the comment sections for the upcoming event. 
+Pss: In case you want to participate only as a listener sign up for the event and send a "-" in the field to enter your Hack The Box username, this way you will reserve your place, even if you just come to observe ;) 
 
 ⚠️ This communication dashboard will be posted along with every new event we host.
 Some of these steps you'll only have to do it once, but don’t forget to RSVP to every event, and send us your username every time. This way we can provide you the right access to the labs.
@@ -59,6 +58,7 @@ To be able to follow along during the meetups, you need to have some stuff insta
 - Kali linux VM or ParrotOS Security
     - [Kali VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
     - [Parrot Security Edition](https://www.parrotsec.org/download/)
+    - [Installing Parrot Security on VirtualBox](https://parrotsec.org/docs/install-parrot-on-virtualbox.html)
 
 ## 5. Connecting to the environment
 
