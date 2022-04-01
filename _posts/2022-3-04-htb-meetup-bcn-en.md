@@ -45,7 +45,7 @@ To successfully register for an event, you'll have to complete a few steps.
 - I recommend you to join our Discord group    
   [Join the HTB BCN Meetup Discord Server!](https://discord.gg/T3wSMRKPpV)
 
-Pss: In case you want to participate only as a listener sign up for the event and send a "-" in the field to enter your Hack The Box username, this way you will reserve your place, even if you just come to observe ;) 
+Pss: In case you want to participate only as a listener sign up for the event and send a "-" in the field to enter your Hack The Box username, this way you will reserve your place, even if you just come to observe ;)
 
 ⚠️ This communication dashboard will be posted along with every new event we host.
 Some of these steps you'll only have to do it once, but don’t forget to RSVP to every event, and send us your username every time. This way we can provide you the right access to the labs.
@@ -56,9 +56,9 @@ To be able to follow along during the meetups, you need to have some stuff insta
 
 - VMware or VirtualBox
 - Kali linux VM or ParrotOS Security
-    - [Kali VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
-    - [Parrot Security Edition](https://www.parrotsec.org/download/)
-    - [Installing Parrot Security on VirtualBox](https://parrotsec.org/docs/install-parrot-on-virtualbox.html)
+  - [Kali VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
+  - [Parrot Security Edition](https://www.parrotsec.org/download/)
+  - [Installing Parrot Security on VirtualBox](https://parrotsec.org/docs/install-parrot-on-virtualbox.html)
 
 ## 5. Connecting to the environment
 

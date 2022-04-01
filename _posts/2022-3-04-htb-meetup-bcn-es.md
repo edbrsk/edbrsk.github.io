@@ -55,9 +55,9 @@ Para poder seguir los eventos, es necesario tener algunas cosas instaladas:
 
 - VMware or VirtualBox
 - Kali linux VM o ParrotOS Security
-    - [Kali VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
-    - [Parrot Security Edition](https://www.parrotsec.org/download/)
-    - [Installing Parrot Security on VirtualBox](https://parrotsec.org/docs/install-parrot-on-virtualbox.html)
+  - [Kali VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
+  - [Parrot Security Edition](https://www.parrotsec.org/download/)
+  - [Installing Parrot Security on VirtualBox](https://parrotsec.org/docs/install-parrot-on-virtualbox.html)
 
 ## 5. Conectándonos con el entorno
 
