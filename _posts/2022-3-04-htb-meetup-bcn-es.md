@@ -34,19 +34,18 @@ Soy Edgar Ordóñez Rodríguez, Software Engineer en [@Wallapop](https://es.wall
 
 Para inscribirte correctamente a un evento, tendrás que completar algunos pasos.
 
-- Crear una cuenta en Hack The Box
+- Crear una cuenta en Hack The Box (Solo es obligatorio si quieres participar de forma activa resolviendo la máquina el mismo día del evento.)
   [Hacking Training For The Best](https://www.hackthebox.com/)
 
 - Unirte a nuestro grupo en Meetup
   [Hack The Box Meetup: Barcelona](https://www.meetup.com/es/hack-the-box-meetup-barcelona-es/)
 
-- RSVP para el próximo evento
+- RSVP para el próximo evento. Introduce tu nombre de usuario de Hack The Box en el formulario.
+
 - Unirte a nuestro grupo de Discord    
   [Join the HTB Meetup BCN Discord Server!](https://discord.gg/T3wSMRKPpV)
 
-- Envía a brsk#0851 (Discord) tu nombre de usuario de Hack The Box, por ejemplo:
-  `Hey Edgar, quiero atender al próximo evento. Mi usuario es: edbrsk #528375` <- Puedes encontrarlo en tu perfil de HTB.
-  - Si no quieres unirte a nuestro grupo de Discord, publica tu usuario en la sección de comentarios para el próximo evento.
+Pss: En caso de que quieras participar solo como "oyente" apúntate al evento y envía un "-" en el campo para introducir tu nombre de usuario de Hack The Box, de esta forma reserva tu sitio, aunque solo vengas a observar ;)
 
 ⚠️ Algunos de estos pasos sólo tendrás que hacerlos una vez, pero no olvides confirmar tu asistencia a cada evento y enviarnos tu nombre de usuario en cada nuevo Meetup programado. De este modo, podremos facilitarte el acceso correcto a los laboratorios.
 
@@ -58,6 +57,7 @@ Para poder seguir los eventos, es necesario tener algunas cosas instaladas:
 - Kali linux VM o ParrotOS Security
     - [Kali VirtualBox](https://www.kali.org/docs/virtualization/install-virtualbox-guest-vm/)
     - [Parrot Security Edition](https://www.parrotsec.org/download/)
+    - [Installing Parrot Security on VirtualBox](https://parrotsec.org/docs/install-parrot-on-virtualbox.html)
 
 ## 5. Conectándonos con el entorno
 
