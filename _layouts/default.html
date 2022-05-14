@@ -44,7 +44,7 @@
           {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
           {% if posts.size > 1 %}
           <footer class="lang-options">
-            <ul>
+<!--            <ul>
               {% for post in posts %}
               <li>
                 <a href="{{ site.base-url }}{{ post.url }}" class="{{ post.lang }}" title="View in {{post.lang}}">
@@ -52,7 +52,7 @@
                 </a>
               </li>
               {% endfor %}
-            </ul>
+            </ul>-->
           </footer>
           {% endif %}
 
@@ -64,3 +64,4 @@
     {% include analytics.html %}
   </body>
 </html>
+
